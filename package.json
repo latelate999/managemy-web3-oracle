@@ -1,0 +1,35 @@
+{
+  "name": "managemy-web3-oracle",
+  "version": "1.0.0",
+  "description": "Manage Web3 oracles effortlessly with comprehensive management tools, ensuring accurate and reliable data feeds.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latelate999/managemy-web3-oracle"
+  },
+  "author": "latelate999",
+  "license": "MIT",
+  "dependencies": {
+    "managemy-web3-oracle": "1.0.0",
+    "managemy-web3-oracle-bot": "1.0.0",
+    "multer": "1.0.0",
+    "node-sass": "1.0.0",
+    "moment": "1.0.0",
+    "dotenv": "1.0.0",
+    "express": "1.0.0",
+    "babel-core": "1.0.0",
+    "solc": "1.0.0",
+    "sinon": "1.0.0",
+    "axios": "1.0.0",
+    "web3-react": "1.0.0",
+    "ethers": "1.0.0",
+    "react": "1.0.0",
+    "mysql": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "supertest": "1.0.0",
+    "jest": "1.0.0"
+  }
+}
